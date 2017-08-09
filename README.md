@@ -6,8 +6,8 @@ We chose the most simple html/css construct possible that the community is able 
 
 tasks:
 
--[] Generally fill the content and replace placeholders
--[] Add trader rules 
--[] Add more members
--[] Add video
--[] Activate bot page
+- [] Generally fill the content and replace placeholders
+- [] Add trader rules 
+- [] Add more members
+- [] Add video
+- [] Activate bot page
